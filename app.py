@@ -7,7 +7,7 @@ def func(
     b,
     c,
     d,
-    e, 
+    e,
     f,
 ):
     pass
